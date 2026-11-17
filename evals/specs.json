@@ -1,0 +1,26 @@
+{
+  "train": [
+    {"id": "t01", "spec": "A classic 3x3 sliding tile puzzle with six levels that get steadily harder."},
+    {"id": "t02", "spec": "Tower of Hanoi with three pegs where each level adds one more disk."},
+    {"id": "t03", "spec": "Lights Out on a 3x3 grid: pressing a lamp toggles it and its neighbours."},
+    {"id": "t04", "spec": "Two water jugs of different sizes; measure an exact amount by filling, emptying and pouring."},
+    {"id": "t05", "spec": "A 1D sliding puzzle: a row of numbered tiles with one gap, sort them in ascending order."},
+    {"id": "t06", "spec": "Coin flip puzzle: a row of coins, each move flips a coin and its neighbours; make all heads."},
+    {"id": "t07", "spec": "A robot on a small grid with walls must reach the exit; later levels have longer mazes."},
+    {"id": "t08", "spec": "Three water buckets with different capacities; reach a target volume in any bucket."},
+    {"id": "t09", "spec": "A stack-sorting puzzle where coloured disks move between towers until each tower is one colour."},
+    {"id": "t10", "spec": "Rotate rows and columns of a 3x3 number grid to restore sorted order."},
+    {"id": "t11", "spec": "Lamps in a ring: toggling one lamp also toggles the two lamps beside it. Turn all lamps off."},
+    {"id": "t12", "spec": "A frog-jumping puzzle: frogs on lily pads swap sides by sliding or hopping over one frog."}
+  ],
+  "heldout": [
+    {"id": "h01", "spec": "A 2x3 sliding tile puzzle with five or more levels of increasing difficulty."},
+    {"id": "h02", "spec": "A river-crossing puzzle with a farmer, a wolf, a goat and a cabbage, with harder variants per level."},
+    {"id": "h03", "spec": "Switches wired to bulbs on a 2x4 board; flipping a switch toggles a fixed set of bulbs."},
+    {"id": "h04", "spec": "Pour liquid between a 3-litre and a 5-litre jug, with new jug sizes on later levels."},
+    {"id": "h05", "spec": "Move a stack of disks between four pegs (Reve's puzzle) with more disks on each level."},
+    {"id": "h06", "spec": "Push a single box onto a target on a tiny warehouse grid, sokoban style."},
+    {"id": "h07", "spec": "A peg-swap puzzle: red and blue pegs in a line trade places using the empty hole."},
+    {"id": "h08", "spec": "A counter puzzle: start at 1 and reach a target number using +3 and x2 buttons."}
+  ]
+}
